@@ -31,7 +31,7 @@ steps:
     projects: '**/*.csproj'
     arguments: '--no-build --configuration $(buildConfiguration)'
     versioningScheme: byPrereleaseNumber
-    majorVersion: '2'
+    majorVersion: '1'
     minorVersion: '0'
     patchVersion: '0'
  
