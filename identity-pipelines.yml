@@ -39,6 +39,6 @@ steps:
   displayName: 'Publish NuGet package'
   inputs:
     command: push
-    publishVstsFeed: 'Models.Identity'
+    publishVstsFeed: 'AISD.Models.Identity'
     allowPackageConflicts: true
   condition: succeeded()
